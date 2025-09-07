@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Anomaly & Fraud Detection Platform
 
-A comprehensive anomaly and fraud detection platform built with FastAPI, Streamlit, and modern ML libraries. This platform provides end-to-end capabilities for detecting suspicious events in streaming or batch datasets, with a web UI for analysts and API endpoints for integration.
+A comprehensive anomaly and fraud detection platform built with FastAPI, Streamlit, and modern ML libraries. This platform provides end-to-end capabilities for detecting suspicious events in streaming or batch datasets, with a web UI for analysts and API endpoints for integration. 
 
-## �� Features
+## Features
 
 ### Core Capabilities
 - **Multi-source Data Ingestion**: CSV, Parquet, Kafka, MQTT, Webhooks, REST API
@@ -288,33 +288,5 @@ mypy src/
 - [Developer Guide](docs/developer-guide.md) - Development setup
 - [Deployment Guide](docs/deployment-guide.md) - Production deployment
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- Create an issue for bug reports
-- Check the documentation
-- Contact the development team
-
-## 🔄 Changelog
-
-### v1.0.0
-- Initial release
-- Core anomaly detection capabilities
-- Web UI and API
-- Multi-source data ingestion
-- Model registry and versioning
-=======
-# Anomaly-Fraud-Detection-Platform
-Real-time and batch anomaly detection platform for financial transactions, network logs, IoT telemetry, or healthcare events. It ingests data, engineers features, scores events with ML (unsupervised + supervised), explains decisions, and routes high-risk cases to analysts—complete with metrics, drift monitoring, and audit trails.
->>>>>>> 0987c9ba903982c1503b6d97fde319cb93fda24b
