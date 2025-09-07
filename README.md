@@ -281,12 +281,6 @@ mypy src/
 - Caching with Redis
 - Message queue scaling
 
-## 📚 Documentation
-
-- [API Documentation](http://localhost:8000/docs) - Interactive API docs
-- [User Guide](docs/user-guide.md) - Platform usage guide
-- [Developer Guide](docs/developer-guide.md) - Development setup
-- [Deployment Guide](docs/deployment-guide.md) - Production deployment
 
 
 
